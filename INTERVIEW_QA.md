@@ -2,6 +2,8 @@
 
 Simple answers you can say out loud. The **first line** of each answer is the short version. The rest is what to add if they ask for more.
 
+> **Quick visual revision:** see the [diagrams in README.md](README.md#diagrams-quick-revision): request flow, status-code decision tree, POST and 404 sequences, models, test flow, and scaling.
+
 ---
 
 ## HTTP and REST
